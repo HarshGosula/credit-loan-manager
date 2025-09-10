@@ -69,10 +69,12 @@ myproject/
 ##🚀 Getting Started
 
 **1. Clone the repository**
+
 git clone https://github.com/HarshGosula/credit-loan-manager.git
 cd myproject
 
 **2. Create .env file**
+
 POSTGRES_DB=mydb  
 POSTGRES_USER=myuser  
 POSTGRES_PASSWORD=mypassword  
@@ -80,6 +82,7 @@ DJANGO_SECRET_KEY=supersecretkey
 DJANGO_DEBUG=1  
 
 **3. Build and start services**
+
 docker-compose up --build -d
 
 

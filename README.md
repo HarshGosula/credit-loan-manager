@@ -70,7 +70,7 @@ myproject/
 
 **1. Clone the repository**
 
-git clone https://github.com/HarshGosula/credit-loan-manager.git
+git clone https://github.com/HarshGosula/credit-loan-manager
 
 cd myproject
 

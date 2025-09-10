@@ -71,6 +71,7 @@ myproject/
 **1. Clone the repository**
 
 git clone https://github.com/HarshGosula/credit-loan-manager.git
+
 cd myproject
 
 **2. Create .env file**
